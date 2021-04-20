@@ -1,0 +1,6 @@
+.error {
+    border: 3px solid green;
+    border-radius: 5px;
+    background-color: rgb(202, 199, 199);
+    padding: 5px;
+}
